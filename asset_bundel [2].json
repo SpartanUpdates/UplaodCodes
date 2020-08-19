@@ -1,0 +1,133 @@
+{
+  "theme_thumb_url": "https://uvadmin.s3.ap-south-1.amazonaws.com/theme_thumb/",
+  "theme_bundle_url": "https://uvadmin.s3.ap-south-1.amazonaws.com/animation_file/",
+  "category": [
+    {
+      "Id": 1,
+      "Cat_Name": "General",
+      "themes": [
+        {
+          "Id": 1,
+          "Cat_Id": 1,
+          "Theme_Name": "BitMusic",
+          "Theme_Info": "BitMusic",
+          "GameobjectName": "27",
+          "Is_Preimum": "0",
+          "Theme_Bundle": "BitMusic.zip",
+          "Bundle_Size": "192593",
+          "Thumnail_Small": "BitMusic.png",
+          "is_From_Asset": true
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Cat_Name": "Love",
+      "themes": [
+        {
+          "Id": 1,
+          "Cat_Id": 2,
+          "Theme_Name": "LoveStory",
+          "Theme_Info": "LoveStory",
+          "GameobjectName": "21",
+          "Is_Preimum": "0",
+          "Theme_Bundle": "LoveStory.zip",
+          "Bundle_Size": "85577",
+          "Thumnail_Small": "LoveStory.png",
+          "is_From_Asset": true
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Cat_Name": "Birthday",
+      "themes": [
+        {
+          "Id": 1,
+          "Cat_Id": 3,
+          "Theme_Name": "BirthdayBash",
+          "Theme_Info": "BirthdayBash",
+          "GameobjectName": "41",
+          "Is_Preimum": "0",
+          "Theme_Bundle": "BirthdayBash.zip",
+          "Bundle_Size": "206533",
+          "Thumnail_Small": "BirthdayBash.png",
+          "is_From_Asset": true
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Cat_Name": "Neon",
+      "themes": [
+        {
+          "Id": 1,
+          "Cat_Id": 4,
+          "Theme_Name": "DJMic",
+          "Theme_Info": "DJMic",
+          "GameobjectName": "83",
+          "Is_Preimum": "0",
+          "Theme_Bundle": "DJMic.zip",
+          "Bundle_Size": "211702",
+          "Thumnail_Small": "DJMic.png",
+          "is_From_Asset": true
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Cat_Name": "Smoke",
+      "themes": [
+        {
+          "Id": 1,
+          "Cat_Id": 5,
+          "Theme_Name": "SmokeMagic",
+          "Theme_Info": "SmokeMagic",
+          "GameobjectName": "103",
+          "Is_Preimum": "0",
+          "Theme_Bundle": "SmokeMagic.zip",
+          "Bundle_Size": "177436",
+          "Thumnail_Small": "SmokeMagic.png",
+          "is_From_Asset": true
+        }
+      ]
+    },
+    {
+      "Id": 6,
+      "Cat_Name": "God",
+      "themes": [
+        {
+          "Id": 1,
+          "Cat_Id": 6,
+          "Theme_Name": "Ganesha",
+          "Theme_Info": "Ganesha",
+          "GameobjectName": "61",
+          "Is_Preimum": "0",
+          "Theme_Bundle": "Ganesha.zip",
+          "Bundle_Size": "131657",
+          "Thumnail_Small": "Ganesha.png",
+          "is_From_Asset": true
+        }
+      ]
+    },{
+      "Id": 7,
+      "Cat_Name": "Festival",
+      "themes": [
+        {
+          "Id": 1,
+          "Cat_Id": 7,
+          "Theme_Name": "KrishnaFlute",
+          "Theme_Info": "KrishnaFlute",
+          "GameobjectName": "124",
+          "Is_Preimum": "0",
+          "Theme_Bundle": "KrishnaFlute.zip",
+          "Bundle_Size": "285833",
+          "Thumnail_Small": "KrishnaFlute.png",
+          "is_From_Asset": true
+        }
+      ]
+    }
+  ]
+}
+
+
