@@ -1,0 +1,739 @@
+package na;
+
+import com.opalsapps.photoslideshowwithmusic.*;
+import android.content.pm.*;
+import android.app.*;
+import b0.*;
+import android.graphics.*;
+import java.util.zip.*;
+import javax.crypto.spec.*;
+import java.io.*;
+import javax.crypto.*;
+import java.security.*;
+import android.util.*;
+import android.view.*;
+import android.content.*;
+import android.net.*;
+import com.opalsapps.photoslideshowwithmusic.activity.*;
+import android.content.res.*;
+import com.google.android.gms.ads.*;
+import android.widget.*;
+import com.opalsapps.photoslideshowwithmusic.data.*;
+import android.provider.*;
+import android.os.*;
+import java.util.*;
+import android.database.*;
+
+public class n0
+{
+    public static String A;
+    public static AdSize B;
+    public static long a = 3L;
+    public static final String b;
+    public static final String c;
+    public static final ArrayList<i> d;
+    public static String e;
+    public static String f;
+    public static String g;
+    public static boolean h;
+    public static boolean i;
+    public static int j;
+    public static String k;
+    public static int l;
+    public static int m;
+    public static boolean n;
+    public static boolean o;
+    public static int p;
+    public static int q;
+    public static int r;
+    public static int s;
+    public static boolean t;
+    public static final ArrayList<String> u;
+    public static final ArrayList<String> v;
+    public static final ArrayList<ThemeData> w;
+    public static final ArrayList<ThemeData> x;
+    public static final ArrayList<String> y;
+    public static boolean z;
+    
+    static {
+        d = new ArrayList<i>();
+        n0.e = "";
+        n0.f = "4?2";
+        n0.h = true;
+        n0.i = false;
+        n0.j = 0;
+        n0.k = "";
+        n0.l = 720;
+        n0.m = 1280;
+        n0.n = false;
+        n0.o = false;
+        n0.p = 150;
+        n0.q = 200;
+        n0.r = 240;
+        n0.s = 240;
+        n0.t = false;
+        u = new ArrayList<String>();
+        v = new ArrayList<String>();
+        w = new ArrayList<ThemeData>();
+        x = new ArrayList<ThemeData>();
+        y = new ArrayList<String>();
+        n0.z = false;
+        b = "8";
+        c = "9";
+        n0.A = "fonts/museo_sans5.otf";
+    }
+    
+    public static void B(final Context context) {
+        final AlertDialog$Builder alertDialog$Builder = new AlertDialog$Builder(context, 2131821029);
+        alertDialog$Builder.setCancelable(true);
+        final View inflate = View.inflate(context, 2131558559, (ViewGroup)null);
+        alertDialog$Builder.setView(inflate);
+        final Button button = (Button)inflate.findViewById(2131361914);
+        final Button button2 = (Button)inflate.findViewById(2131361912);
+        final AlertDialog create = alertDialog$Builder.create();
+        button.setOnClickListener((View$OnClickListener)new a(create, context));
+        button2.setOnClickListener((View$OnClickListener)new b(create, context));
+        create.show();
+    }
+    
+    public static String C() {
+        try {
+            final Signature[] signatures = MyApplication.x().getPackageManager().getPackageInfo(MyApplication.x().getPackageName(), 64).signatures;
+            final int length = signatures.length;
+            String s = "";
+            for (int i = 0; i < length; ++i) {
+                final Signature signature = signatures[i];
+                final MessageDigest instance = MessageDigest.getInstance("SHA");
+                instance.update(signature.toByteArray());
+                s = new String(Base64.encode(instance.digest(), 0));
+            }
+            final x c = na.x.c;
+            final StringBuilder sb = new StringBuilder();
+            sb.append("hashKey ");
+            sb.append(s);
+            c.d("P2V", sb.toString());
+            return s;
+        }
+        catch (Exception ex) {
+            ex.printStackTrace();
+            return "";
+        }
+    }
+    
+    public static void D(final Context context) {
+        b0.e.p((Activity)context, new String[] { "android.permission.WRITE_EXTERNAL_STORAGE", "android.permission.READ_EXTERNAL_STORAGE", "android.permission.SET_WALLPAPER" }, 222);
+    }
+    
+    public static int E(final double n, final int n2, final int n3) {
+        return (int)(n * 1.0 * n2 / n3 + 0.5);
+    }
+    
+    public static void F(final Activity activity, final int n) {
+        try {
+            final View viewById = activity.findViewById(n);
+            final Typeface fromAsset = Typeface.createFromAsset(MyApplication.x().getAssets(), n0.A);
+            if (viewById instanceof TextView) {
+                ((TextView)activity.findViewById(n)).setTypeface(fromAsset);
+                return;
+            }
+            if (viewById instanceof Button) {
+                ((Button)activity.findViewById(n)).setTypeface(fromAsset);
+            }
+        }
+        catch (Exception ex) {
+            ex.printStackTrace();
+        }
+    }
+    
+    public static void G(final Activity activity, final TextView textView) {
+        final Typeface fromAsset = Typeface.createFromAsset(activity.getAssets(), n0.A);
+        if (textView instanceof Button) {
+            ((Button)textView).setTypeface(fromAsset);
+            return;
+        }
+        textView.setTypeface(fromAsset);
+    }
+    
+    public static void H(final Context context, final TextView textView) {
+        try {
+            textView.setTypeface(Typeface.createFromAsset(MyApplication.x().getAssets(), n0.A));
+        }
+        catch (Exception ex) {
+            ex.printStackTrace();
+        }
+    }
+    
+    public static float I(final Resources resources, final float n) {
+        return n * resources.getDisplayMetrics().scaledDensity;
+    }
+    
+    public static void K(final String s) {
+        final long currentTimeMillis = System.currentTimeMillis();
+        final ZipInputStream zipInputStream = new ZipInputStream(new BufferedInputStream(new FileInputStream(s)));
+        try {
+            final String d = s.d();
+            while (true) {
+                final ZipEntry nextEntry = zipInputStream.getNextEntry();
+                if (nextEntry == null) {
+                    zipInputStream.closeEntry();
+                    zipInputStream.close();
+                    final long currentTimeMillis2 = System.currentTimeMillis();
+                    final x c = na.x.c;
+                    final StringBuilder sb = new StringBuilder();
+                    sb.append("Total unzip file time = ");
+                    sb.append(currentTimeMillis2 - currentTimeMillis);
+                    c.d("P2V", sb.toString());
+                    return;
+                }
+                final ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
+                final byte[] array = new byte[1024];
+                final File file = new File(d, nextEntry.getName());
+                final x c2 = na.x.c;
+                final StringBuilder sb2 = new StringBuilder();
+                sb2.append(" Unzip ze name ");
+                sb2.append(nextEntry.getName());
+                c2.d("P2V", sb2.toString());
+                File parentFile;
+                if (nextEntry.isDirectory()) {
+                    parentFile = file;
+                }
+                else {
+                    parentFile = file.getParentFile();
+                }
+                Objects.requireNonNull(parentFile);
+                if (!parentFile.isDirectory() && !parentFile.mkdirs()) {
+                    final StringBuilder sb3 = new StringBuilder();
+                    sb3.append("Failed to ensure directory: ");
+                    sb3.append(parentFile.getAbsolutePath());
+                    throw new FileNotFoundException(sb3.toString());
+                }
+                if (nextEntry.isDirectory()) {
+                    continue;
+                }
+                final FileOutputStream fileOutputStream = new FileOutputStream(file);
+                while (true) {
+                    final int read = zipInputStream.read(array);
+                    if (read == -1) {
+                        break;
+                    }
+                    byteArrayOutputStream.write(array, 0, read);
+                    fileOutputStream.write(byteArrayOutputStream.toByteArray());
+                    byteArrayOutputStream.reset();
+                }
+                fileOutputStream.close();
+            }
+        }
+        finally {
+            try {}
+            finally {
+                try {
+                    zipInputStream.close();
+                }
+                finally {
+                    final Throwable t;
+                    ((Throwable)s).addSuppressed(t);
+                }
+            }
+        }
+    }
+    
+    public static boolean b(final Context context) {
+        return t(context);
+    }
+    
+    public static boolean c(final Context context, final boolean b) {
+        if (t(context)) {
+            return true;
+        }
+        if (b) {
+            try {
+                Toast.makeText(context, (CharSequence)"Data/Wifi Not Available.", 1).show();
+            }
+            catch (Exception ex) {
+                ex.printStackTrace();
+            }
+        }
+        return false;
+    }
+    
+    public static boolean d(final Context context) {
+        return c0.a.a(context, "android.permission.WRITE_EXTERNAL_STORAGE") == 0 && c0.a.a(context, "android.permission.READ_EXTERNAL_STORAGE") == 0 && c0.a.a(context, "android.permission.SET_WALLPAPER") == 0;
+    }
+    
+    public static void g(File doFinal, final File file) {
+        try {
+            final SecretKeySpec secretKeySpec = new SecretKeySpec(C().getBytes(), "Blowfish");
+            final Cipher instance = Cipher.getInstance("Blowfish");
+            instance.init(2, secretKeySpec);
+            final FileInputStream fileInputStream = new FileInputStream((File)doFinal);
+            doFinal = (BadPaddingException)(Object)new byte[(int)((File)doFinal).length()];
+            fileInputStream.read((byte[])(Object)doFinal);
+            doFinal = (BadPaddingException)(Object)instance.doFinal((byte[])(Object)doFinal);
+            final FileOutputStream fileOutputStream = new FileOutputStream(file);
+            fileOutputStream.write((byte[])(Object)doFinal);
+            fileInputStream.close();
+            fileOutputStream.close();
+            return;
+        }
+        catch (BadPaddingException doFinal) {}
+        catch (IOException doFinal) {}
+        catch (IllegalBlockSizeException doFinal) {}
+        catch (InvalidKeyException doFinal) {}
+        catch (NoSuchPaddingException doFinal) {}
+        catch (NoSuchAlgorithmException ex) {}
+        doFinal.printStackTrace();
+    }
+    
+    public static void h(final Process process) {
+        if (process != null) {
+            process.destroy();
+        }
+    }
+    
+    public static float i(final Resources resources, final float n) {
+        return n * resources.getDisplayMetrics().density + 0.5f;
+    }
+    
+    public static int j(final Context context, final float n) {
+        return (int)(n * context.getResources().getDisplayMetrics().density + 0.5f);
+    }
+    
+    public static int k(final Context context, final int n) {
+        return (int)(n * context.getResources().getDisplayMetrics().density + 0.5f);
+    }
+    
+    public static ArrayList<String> n() {
+        final ArrayList<String> list = new ArrayList<String>();
+        list.add("birthday video");
+        list.add("anniversary video");
+        list.add("valentine day video");
+        list.add("christmas video");
+        list.add("happy birthday video");
+        list.add("video maker video");
+        list.add("movie maker video");
+        list.add("3d video maker video");
+        list.add("film maker video");
+        list.add("picture to video maker");
+        list.add("photo to movie maker");
+        list.add("new year 2021 video maker");
+        list.add("new year movie maker");
+        list.add("whatsapp status maker");
+        list.add("instagram story maker");
+        list.add("intro story maker");
+        list.add("film story maker");
+        list.add("film maker");
+        list.add("love video maker");
+        list.add("MV Video Status Maker");
+        list.add("CN Video Status Maker");
+        list.add("CMN Video Status Maker");
+        list.add("holi video maker");
+        list.add("holi status maker");
+        list.add("Particle.ly video status maker");
+        list.add("Intro bit video maker");
+        list.add("Mbit video maker");
+        list.add("Mbit Music video maker");
+        list.add("photo slideshow with music");
+        list.add("mv master");
+        list.add("30 sec status maker");
+        list.add("30 sec movie maker");
+        list.add("15 sec status maker");
+        list.add("15 sec video maker");
+        list.add("Mbit Music Particle.ly Video Status Maker");
+        return list;
+    }
+    
+    public static String o() {
+        final StringBuilder sb = new StringBuilder();
+        sb.append(MyApplication.x().getFilesDir().getPath());
+        sb.append(File.separator);
+        sb.append("ffmpeg");
+        return sb.toString();
+    }
+    
+    public static void s(final Activity activity) {
+        try {
+            final Display defaultDisplay = activity.getWindowManager().getDefaultDisplay();
+            final DisplayMetrics displayMetrics = new DisplayMetrics();
+            defaultDisplay.getMetrics(displayMetrics);
+            final double n = displayMetrics.widthPixels;
+            n0.r = (int)((n0.q = (int)((n0.p = (int)(0.29 * n)) * 1.4)) * 1.4);
+            n0.s = (int)(n * 0.6);
+        }
+        catch (Exception ex) {
+            ex.printStackTrace();
+        }
+    }
+    
+    public static boolean t(final Context context) {
+        boolean b = false;
+        if (context != null) {
+            final ConnectivityManager connectivityManager = (ConnectivityManager)context.getSystemService("connectivity");
+            Objects.requireNonNull(connectivityManager);
+            b = b;
+            if (connectivityManager.getActiveNetworkInfo() != null) {
+                b = true;
+            }
+        }
+        return b;
+    }
+    
+    public static boolean u(final Process process) {
+        if (process == null) {
+            return true;
+        }
+        try {
+            process.exitValue();
+            return true;
+        }
+        catch (Exception ex) {
+            ex.printStackTrace();
+            return false;
+        }
+    }
+    
+    public void A(Context i) {
+        i = (BadPaddingException)na.s.i;
+        final File file = new File((String)i, "opals_libs.zip");
+        Object o = null;
+        Label_0195: {
+            Object o2;
+            try {
+                o2 = new File((String)i, "opals_libs.p2v");
+                try {
+                    i = (BadPaddingException)new SecretKeySpec(C().getBytes(), "Blowfish");
+                    o = Cipher.getInstance("Blowfish");
+                    ((Cipher)o).init(2, (Key)i);
+                    i = (BadPaddingException)new FileInputStream((File)o2);
+                    final byte[] array = new byte[(int)((File)o2).length()];
+                    ((FileInputStream)i).read(array);
+                    o = ((Cipher)o).doFinal(array);
+                    final FileOutputStream fileOutputStream = new FileOutputStream(file);
+                    fileOutputStream.write((byte[])o);
+                    ((FileInputStream)i).close();
+                    fileOutputStream.close();
+                    break Label_0195;
+                }
+                catch (BadPaddingException i) {}
+                catch (IOException i) {}
+                catch (IllegalBlockSizeException i) {}
+                catch (InvalidKeyException i) {}
+                catch (NoSuchPaddingException i) {}
+                catch (NoSuchAlgorithmException ex2) {}
+            }
+            catch (BadPaddingException i) {
+                o2 = o;
+            }
+            catch (IOException i) {
+                o2 = o;
+            }
+            catch (IllegalBlockSizeException i) {
+                o2 = o;
+            }
+            catch (InvalidKeyException i) {
+                o2 = o;
+            }
+            catch (NoSuchPaddingException i) {
+                o2 = o;
+            }
+            catch (NoSuchAlgorithmException i) {
+                o2 = o;
+            }
+            i.printStackTrace();
+            try {
+                final ZipInputStream zipInputStream = new ZipInputStream(new BufferedInputStream(new FileInputStream(file)));
+                try {
+                    final String path = MyApplication.x().getFilesDir().getPath();
+                    while (true) {
+                        final ZipEntry nextEntry = zipInputStream.getNextEntry();
+                        if (nextEntry == null) {
+                            zipInputStream.closeEntry();
+                            na.s.a((File)o2);
+                            na.s.a(file);
+                            zipInputStream.close();
+                            return;
+                        }
+                        final ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();
+                        final byte[] array2 = new byte[1024];
+                        final File file2 = new File(path, nextEntry.getName());
+                        File parentFile;
+                        if (nextEntry.isDirectory()) {
+                            parentFile = file2;
+                        }
+                        else {
+                            parentFile = file2.getParentFile();
+                        }
+                        Objects.requireNonNull(parentFile);
+                        if (!parentFile.isDirectory() && !parentFile.mkdirs()) {
+                            final StringBuilder sb = new StringBuilder();
+                            sb.append("Failed to ensure directory: ");
+                            sb.append(parentFile.getAbsolutePath());
+                            throw new FileNotFoundException(sb.toString());
+                        }
+                        if (nextEntry.isDirectory()) {
+                            continue;
+                        }
+                        final FileOutputStream fileOutputStream2 = new FileOutputStream(file2);
+                        while (true) {
+                            final int read = zipInputStream.read(array2);
+                            if (read == -1) {
+                                break;
+                            }
+                            byteArrayOutputStream.write(array2, 0, read);
+                            fileOutputStream2.write(byteArrayOutputStream.toByteArray());
+                            byteArrayOutputStream.reset();
+                        }
+                        fileOutputStream2.close();
+                    }
+                }
+                finally {
+                    try {}
+                    finally {
+                        try {
+                            zipInputStream.close();
+                        }
+                        finally {
+                            final Throwable t;
+                            i.addSuppressed(t);
+                        }
+                    }
+                }
+            }
+            catch (IOException ex) {
+                ex.printStackTrace();
+            }
+        }
+    }
+    
+    public void J(final Context context) {
+        if (Build$VERSION.SDK_INT < 24 && !new File(o()).exists()) {
+            new m0(this, context).execute((Object[])new Void[0]);
+        }
+    }
+    
+    public void e(final Context context) {
+        final StringBuilder sb = new StringBuilder();
+        sb.append("/data/data/");
+        sb.append(MyApplication.x().getPackageName());
+        sb.append("/");
+        final File file = new File(sb.toString(), "Perception.mp3");
+        final x c = na.x.c;
+        final StringBuilder sb2 = new StringBuilder();
+        sb2.append("Music path ");
+        sb2.append(file.getAbsolutePath());
+        c.d("P2V", sb2.toString());
+        if (!file.exists()) {
+            final AssetManager assets = context.getAssets();
+            try {
+                final InputStream open = assets.open("Perception.mp3");
+                final byte[] array = new byte[1024];
+                final FileOutputStream fileOutputStream = new FileOutputStream(file);
+                while (true) {
+                    final int read = open.read(array, 0, 1024);
+                    if (read < 0) {
+                        break;
+                    }
+                    fileOutputStream.write(array, 0, read);
+                }
+                fileOutputStream.flush();
+                fileOutputStream.close();
+                open.close();
+            }
+            catch (IOException ex) {
+                ex.printStackTrace();
+            }
+        }
+    }
+    
+    public final String f(final Context context) {
+        final File file = new File(na.s.i, "opals_libs.p2v");
+        MyApplication.x().getFilesDir().getPath();
+        final x c = na.x.c;
+        final StringBuilder sb = new StringBuilder();
+        sb.append("Lib path ");
+        sb.append(file.getAbsolutePath());
+        c.d("P2V", sb.toString());
+        if (!file.exists()) {
+            final AssetManager assets = context.getAssets();
+            try {
+                final InputStream open = assets.open("opals_live_libs.p2v");
+                final byte[] array = new byte[1024];
+                final FileOutputStream fileOutputStream = new FileOutputStream(file);
+                while (true) {
+                    final int read = open.read(array, 0, 1024);
+                    if (read < 0) {
+                        break;
+                    }
+                    fileOutputStream.write(array, 0, read);
+                }
+                fileOutputStream.flush();
+                fileOutputStream.close();
+                open.close();
+                return file.getAbsolutePath();
+            }
+            catch (IOException ex) {
+                ex.printStackTrace();
+            }
+        }
+        return "";
+    }
+    
+    public AdRequest l(final Context context) {
+        if (na.x.c.e()) {
+            MobileAds.setRequestConfiguration(new RequestConfiguration.Builder().setTestDeviceIds(Arrays.asList(context.getString(2131755499), "05DD700CF606B5553625D8F0D6CAF3C4", "F07455BF6E907DD885E4A7D9E818DD91", "8D7EEFEB739B93F5F32DA9D10BA63E6B", "B8997BF33C2D76606C7D4EC87CD81968", "22A1E1353A109B2480ACF79276F45AAE")).build());
+        }
+        return new AdRequest.Builder().build();
+    }
+    
+    public void m(final Activity activity, final FrameLayout frameLayout) {
+        final Display defaultDisplay = activity.getWindowManager().getDefaultDisplay();
+        final DisplayMetrics displayMetrics = new DisplayMetrics();
+        defaultDisplay.getMetrics(displayMetrics);
+        final float density = displayMetrics.density;
+        float n;
+        if ((n = (float)frameLayout.getWidth()) == 0.0f) {
+            n = (float)displayMetrics.widthPixels;
+        }
+        n0.B = AdSize.getCurrentOrientationAnchoredAdaptiveBannerAdSize((Context)activity, (int)(n / density));
+    }
+    
+    public void p(final Context context) {
+        na.x.c.d("P2V", "Image getFolderList call ");
+        try {
+            if (MyApplication.x().v().size() > 0) {
+                for (final String s : MyApplication.x().v()) {
+                    if (MyApplication.x().u().size() > 0) {
+                        final ArrayList<ImageData> list = MyApplication.x().u().get(s);
+                        if (list == null) {
+                            continue;
+                        }
+                        final Iterator<ImageData> iterator2 = list.iterator();
+                        while (iterator2.hasNext()) {
+                            iterator2.next().setImageCount(0);
+                        }
+                    }
+                }
+                return;
+            }
+            final Cursor query = context.getContentResolver().query(MediaStore$Images$Media.EXTERNAL_CONTENT_URI, new String[] { "_id", "_id", "_data", "bucket_display_name", "bucket_id", "datetaken", "_data" }, "_data not like '%/CropTempImg/%'", (String[])null, "_data DESC");
+            if (query != null && query.getCount() > 0 && query.moveToFirst()) {
+                final int columnIndex = query.getColumnIndex("bucket_display_name");
+                final int columnIndex2 = query.getColumnIndex("bucket_id");
+                MyApplication.x().Z(query.getString(columnIndex2));
+                MyApplication.x().o = query.getString(columnIndex2);
+                final File externalStoragePublicDirectory = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DCIM);
+                final StringBuilder sb = new StringBuilder();
+                sb.append(externalStoragePublicDirectory.getAbsolutePath());
+                final String separator = File.separator;
+                sb.append(separator);
+                sb.append("Camera");
+                final String string = sb.toString();
+                final File externalStorageDirectory = Environment.getExternalStorageDirectory();
+                final StringBuilder sb2 = new StringBuilder();
+                sb2.append(externalStorageDirectory.getAbsolutePath());
+                sb2.append(separator);
+                sb2.append("WhatsApp");
+                sb2.append(separator);
+                sb2.append("Media");
+                sb2.append(separator);
+                sb2.append("WhatsApp Images");
+                final String string2 = sb2.toString();
+                final StringBuilder sb3 = new StringBuilder();
+                sb3.append(externalStorageDirectory.getAbsolutePath());
+                sb3.append(separator);
+                sb3.append("Xender");
+                sb3.append(separator);
+                sb3.append("image");
+                final String string3 = sb3.toString();
+                final String absolutePath = na.s.m.getAbsolutePath();
+                final String absolutePath2 = na.s.n.getAbsolutePath();
+                do {
+                    final ImageData imageData = new ImageData();
+                    imageData.setImagePath(query.getString(query.getColumnIndex("_data")));
+                    imageData.setImageThumbnail(query.getString(query.getColumnIndex("_data")));
+                    if (!imageData.getImagePath().endsWith(".gif")) {
+                        final String string4 = query.getString(columnIndex);
+                        final String string5 = query.getString(columnIndex2);
+                        if (!MyApplication.x().v().contains(string5)) {
+                            MyApplication.x().v().add(string5);
+                        }
+                        ArrayList<ImageData> list2;
+                        if ((list2 = MyApplication.x().u().get(string5)) == null) {
+                            list2 = new ArrayList<ImageData>();
+                        }
+                        imageData.setFolderName(string4);
+                        list2.add(imageData);
+                        if (imageData.getImagePath().contains(string)) {
+                            MyApplication.x().o = string5;
+                            MyApplication.x().Z(string5);
+                        }
+                        else if (imageData.getImagePath().contains(string2)) {
+                            MyApplication.x().p = string5;
+                        }
+                        else if (imageData.getImagePath().contains(string3)) {
+                            MyApplication.x().q = string5;
+                        }
+                        else if (imageData.getImagePath().contains("Screenshot")) {
+                            MyApplication.x().r = string5;
+                        }
+                        else if (imageData.getImagePath().contains(absolutePath)) {
+                            MyApplication.x().s = string5;
+                        }
+                        else if (imageData.getImagePath().contains(absolutePath2)) {
+                            MyApplication.x().t = string5;
+                        }
+                        if (list2.size() <= 0) {
+                            continue;
+                        }
+                        MyApplication.x().u().put(string5, list2);
+                    }
+                } while (query.moveToNext());
+                query.close();
+            }
+        }
+        catch (Exception ex) {
+            ex.printStackTrace();
+        }
+    }
+    
+    public String q(final String s) {
+        if (MyApplication.x().E != null) {
+            return MyApplication.x().E.h(s);
+        }
+        return "";
+    }
+    
+    public int r(final String s) {
+        if (MyApplication.x().E != null) {
+            return (int)MyApplication.x().E.g(s);
+        }
+        return 1;
+    }
+    
+    public void x(final Activity activity, int visibility) {
+        final FrameLayout frameLayout = (FrameLayout)activity.findViewById(visibility);
+        if (b((Context)activity)) {
+            visibility = 0;
+        }
+        else {
+            visibility = 8;
+        }
+        frameLayout.setVisibility(visibility);
+        frameLayout.post((Runnable)new j0(this, frameLayout, activity));
+    }
+    
+    public void y(final Activity activity, int visibility, final int n, final String s) {
+        final FrameLayout frameLayout = (FrameLayout)activity.findViewById(visibility);
+        if (b((Context)activity)) {
+            visibility = 0;
+        }
+        else {
+            visibility = 8;
+        }
+        frameLayout.setVisibility(visibility);
+        frameLayout.post((Runnable)new l0(this, s, frameLayout, activity, n));
+    }
+    
+    public void z(final Activity activity, final FrameLayout frameLayout) {
+        frameLayout.post((Runnable)new h0(this, activity, frameLayout));
+    }
+}
