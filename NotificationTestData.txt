@@ -1,0 +1,15 @@
+Title:-Aasmaa_Love
+Message:-Aasmaa_Love Theme
+ThemeName:-Aasmaa_Love
+ThemeThumbile:-https://beatsadmin.s3.ap-south-1.amazonaws.com/thumb/1577083338ed388acde90453ab69e8af3a17bd33cb.jpg
+SoundFileLink:-https://beatsadmin.s3.ap-south-1.amazonaws.com/sounds/157708333966806a2db13fc32d8e0ed034560d0b42.mp3
+SoundFileName:-Aasmaa_Love
+SoundFileSize:-240906
+Particle Category Name:-God
+ParticleName:-Shivay
+ParticleThumbile:-https://uvadmin.s3.ap-south-1.amazonaws.com/theme_thumb/1598012414Shivay.png
+ParticleBundleLink:-https://uvadmin.s3.ap-south-1.amazonaws.com/animation_file/1598012415Shivay.zip
+ParticleBundleSize:-81733
+GameObject:-67
+MinimumVersion:-6.4
+NotificationImageLink:-https://beatsadmin.s3.ap-south-1.amazonaws.com/thumb/1577083338ed388acde90453ab69e8af3a17bd33cb.jpg
