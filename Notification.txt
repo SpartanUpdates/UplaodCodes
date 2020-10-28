@@ -1,0 +1,15 @@
+Title:- Har Har Mahadev
+Message:- He Bhole Hum To Lut Gaye
+ThemeName:-he bhole hum to lut gaye
+ThemeThumbile:-https://beatsadmin.s3.ap-south-1.amazonaws.com/thumb/1601468963Thumb Nail Big.png
+SoundFileLink:-https://beatsadmin.s3.ap-south-1.amazonaws.com/sounds/1601468964he bhole hum to lut gaye.mp3
+SoundFileName:-hebholehumtolutgaye
+SoundFileSize:-471595
+Particle Category Name:-God
+ParticleName:-Shiv
+ParticleThumbile:-https://uvadmin.s3.ap-south-1.amazonaws.com/theme_thumb/1602767262Shiv.png
+ParticleBundleLink:-https://uvadmin.s3.ap-south-1.amazonaws.com/animation_file/1602767262Shiv.zip
+ParticleBundleSize:-311397
+GameObject:-65
+MinimumVersion:-6.4
+NotificationImageLink:-https://beatsadmin.s3.ap-south-1.amazonaws.com/thumb/1601468963Thumb Nail Big.png
