@@ -1,0 +1,98 @@
+{
+  "Birthday" : {
+    "1" : {
+      "mp3Url" : "https://firebasestorage.googleapis.com/v0/b/gplayersupported.appspot.com/o/songs%2FBhojpuri%2F%2540Lagavelu_Jab_Lipistic_Bhojpuri.mp3?alt=media&token=1ca123cc-a3b0-4f8b-858c-6f9620ba45d5",
+      "name" : "Lagavelu_Jab_Lipistic_Bhojpuri"
+    },
+    "2" : {
+      "mp3Url" : "https://firebasestorage.googleapis.com/v0/b/gplayersupported.appspot.com/o/songs%2FBhojpuri%2F%2540Aee_Jaan_Bhojpuri.mp3?alt=media&token=c29594ae-b3b9-4c1f-8555-a791e0a5955c",
+      "name" : "Aee_Jaan_Bhojpuri"
+    },
+    "3" : {
+      "mp3Url" : "https://firebasestorage.googleapis.com/v0/b/gplayersupported.appspot.com/o/songs%2FBhojpuri%2F%2540Chage_Sab_Ladawal_Nazariya_Bhojpuri.mp3?alt=media&token=021e12dc-e889-4182-b5dc-e04a9e73cd6a",
+      "name" : "Chage_Sab_Ladawal_Nazariya_Bhojpuri"
+    },
+    "4" : {
+      "mp3Url" : "https://firebasestorage.googleapis.com/v0/b/gplayersupported.appspot.com/o/songs%2FBhojpuri%2F%2540Main_Lilihi_Bhojpuri.mp3?alt=media&token=1178a3f7-c73e-4c54-be7d-eb58578bbf1f",
+      "name" : "Main_Lilihi_Bhojpuri"
+    },
+    "5" : {
+      "mp3Url" : "https://firebasestorage.googleapis.com/v0/b/gplayersupported.appspot.com/o/songs%2FBhojpuri%2F%2540Main_Mantra_Tha_Jin_Hontho_Par_Bhojpuri.mp3?alt=media&token=13edeb66-1b99-45bd-87d1-34462e2f921e",
+      "name" : "Main_Mantra_Tha_Jin_Hontho_Par_Bhojpuri"
+    }
+  },
+  "Category" : {
+    "Arabic" : {
+      "icon" : "Arabic",
+      "name" : "Arabic"
+    },
+    "Bengali" : {
+      "icon" : "Bengali",
+      "name" : "Bengali"
+    },
+    "Bhojpuri" : {
+      "icon" : "Bhojpuri",
+      "name" : "Bhojpuri"
+    },
+    "Birthday" : {
+      "icon" : "Birthday",
+      "name" : "Birthday"
+    },
+    "Days" : {
+      "icon" : "Days",
+      "name" : "Days"
+    },
+    "Dialogue" : {
+      "icon" : "Dialogue",
+      "name" : "Dialogue"
+    },
+    "English" : {
+      "icon" : "English",
+      "name" : "English"
+    },
+    "Festival" : {
+      "icon" : "Festival",
+      "name" : "Festival"
+    },
+    "God" : {
+      "icon" : "God",
+      "name" : "God"
+    },
+    "Hindi" : {
+      "icon" : "Hindi",
+      "name" : "Hindi"
+    },
+    "Kannada" : {
+      "icon" : "Kannada",
+      "name" : "Kannada"
+    },
+    "Malayalan" : {
+      "icon" : "Malayalan",
+      "name" : "Malayalan"
+    },
+    "Marathi" : {
+      "icon" : "Marathi",
+      "name" : "Marathi"
+    },
+    "Nepali" : {
+      "icon" : "Nepali",
+      "name" : "Nepali"
+    },
+    "Punjabi" : {
+      "icon" : "Punjabi",
+      "name" : "Punjabi"
+    },
+    "Rajasthani" : {
+      "icon" : "Rajasthani",
+      "name" : "Rajasthani"
+    },
+    "Tamil" : {
+      "icon" : "Tamil",
+      "name" : "Tamil"
+    },
+    "Telugu" : {
+      "icon" : "Telugu",
+      "name" : "Telugu"
+    }
+  }
+}
