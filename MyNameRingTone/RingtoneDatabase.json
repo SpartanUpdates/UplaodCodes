@@ -1,98 +1,53 @@
 {
-  "Birthday" : [
-    "1" : {
+  "Birthday" :
+  [
+    {
+      "id" : "1" 	
       "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/Bhai_Cha_Birthday_Marathi.mp3",
       "name" : "Bhai_Cha_Birthday_Marathi"
     },
-    "2" : {
+    {
+      "id" : "2"
       "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/Hay_ni_Tera_Happy_Birthday.mp3",
       "name" : "Hay_ni_Tera_Happy_Birthday"
     },
-    "3" : {
-      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/I_Hope_All_Your_Birthday_Wishes_Birthday.mp3",
-      "name" : "I_Hope_All_Your_Birthday_Wishes_Birthday"
-    },
-    "4" : {
-      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/Mai_This_Day_Bring_Birthday.mp3",
-      "name" : "Mai_This_Day_Bring_Birthday"
-    },
-    "5" : {
-      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/Teri_Friend_Teri_Girlfriend_Birthday.mp3",
-      "name" : "Teri_Friend_Teri_Girlfriend_Birthday"
-    }
+   
   ],
-  "Category" : [
-    "Arabic" : {
-      "icon" : "Arabic",
+  
+  
+  "Category" :  [
+   {
+      "id" : "1",	
       "name" : "Arabic"
-    },
-    "Bengali" : {
-      "icon" : "Bengali",
+   },
+   {
+      "id" : "2",
       "name" : "Bengali"
-    },
-    "Bhojpuri" : {
-      "icon" : "Bhojpuri",
+   },
+   {	
+      "id" : "3",	
       "name" : "Bhojpuri"
-    },
-    "Birthday" : {
-      "icon" : "Birthday",
+   },
+   {
+      "id" : "4",
       "name" : "Birthday"
-    },
-    "Days" : {
-      "icon" : "Days",
+   },
+   {
+      "id" : "5",	  
       "name" : "Days"
-    },
-    "Dialogue" : {
-      "icon" : "Dialogue",
+   },
+   {
+      "id" : "6",	  
       "name" : "Dialogue"
-    },
-    "English" : {
-      "icon" : "English",
+   },
+   {
+      "id" : "7",	  
       "name" : "English"
-    },
-    "Festival" : {
-      "icon" : "Festival",
+   },
+   {
+      "id" : "8",	  
       "name" : "Festival"
-    },
-    "God" : {
-      "icon" : "God",
-      "name" : "God"
-    },
-    "Hindi" : {
-      "icon" : "Hindi",
-      "name" : "Hindi"
-    },
-    "Kannada" : {
-      "icon" : "Kannada",
-      "name" : "Kannada"
-    },
-    "Malayalan" : {
-      "icon" : "Malayalan",
-      "name" : "Malayalan"
-    },
-    "Marathi" : {
-      "icon" : "Marathi",
-      "name" : "Marathi"
-    },
-    "Nepali" : {
-      "icon" : "Nepali",
-      "name" : "Nepali"
-    },
-    "Punjabi" : {
-      "icon" : "Punjabi",
-      "name" : "Punjabi"
-    },
-    "Rajasthani" : {
-      "icon" : "Rajasthani",
-      "name" : "Rajasthani"
-    },
-    "Tamil" : {
-      "icon" : "Tamil",
-      "name" : "Tamil"
-    },
-    "Telugu" : {
-      "icon" : "Telugu",
-      "name" : "Telugu"
-    }
+   },
+   
   ]
 }
