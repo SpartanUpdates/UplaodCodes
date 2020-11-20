@@ -1,5 +1,5 @@
 {
-  "Birthday" : {
+  "Birthday" : [
     "1" : {
       "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/Bhai_Cha_Birthday_Marathi.mp3",
       "name" : "Bhai_Cha_Birthday_Marathi"
@@ -20,8 +20,8 @@
       "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/Teri_Friend_Teri_Girlfriend_Birthday.mp3",
       "name" : "Teri_Friend_Teri_Girlfriend_Birthday"
     }
-  },
-  "Category" : {
+  ],
+  "Category" : [
     "Arabic" : {
       "icon" : "Arabic",
       "name" : "Arabic"
@@ -94,5 +94,5 @@
       "icon" : "Telugu",
       "name" : "Telugu"
     }
-  }
+  ]
 }
