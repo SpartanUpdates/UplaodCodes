@@ -1,0 +1,85 @@
+{
+  "Ringtone" :
+  [
+    {
+      "id" : "1",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Kannada/BeedaPaan_Gudi_Munde_Kanada.mp3",
+      "name" : "BeedaPaan_Gudi_Munde_Kanada"
+    },
+    {
+      "id" : "2",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Kannada/Kalodaasa_Kavya_Neene_Kanada.mp3",
+      "name" : "Kalodaasa_Kavya_Neene_Kanada"
+    },
+	{
+      "id" : "3",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Kannada/Karmodaa_Kanada.mp3",
+      "name" : "Karmodaa_Kanada"
+    },
+    {
+      "id" : "4",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Kannada/Kele_Chaluve_Kanada.mp3",
+      "name" : "Kele_Chaluve_Kanada"
+    },
+	{
+      "id" : "5",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Kannada/Mathaddu_Ne_Kanada.mp3",
+      "name" : "Mathaddu_Ne_Kanada"
+    },
+    {
+      "id" : "6",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Kannada/Muddu_Muddagi_Kanada.mp3",
+      "name" : "Muddu_Muddagi_Kanada"
+    },
+	{
+      "id" : "7",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Kannada/Nalle_Namma_Kanada.mp3",
+      "name" : "Nalle_Namma_Kanada"
+    },
+    {
+      "id" : "8",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Kannada/NInadhe_Thago_Kanada.mp3",
+      "name" : "NInadhe_Thago_Kanada"
+    },
+	{
+      "id" : "9",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Kannada/Ondu_Munjane_Kanada.mp3",
+      "name" : "Ondu_Munjane_Kanada"
+    },
+    {
+      "id" : "10",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Kannada/Parpanchane_Kanada.mp3",
+      "name" : "Parpanchane_Kanada"
+    },
+	{
+      "id" : "11",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Kannada/Raodal_Kanada.mp3",
+      "name" : "Raodal_Kanada"
+    },
+    {
+      "id" : "12",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Kannada/Shaakuntale_Sikkalu_Kanada.mp3",
+      "name" : "Shaakuntale_Sikkalu_Kanada"
+    },
+	{
+      "id" : "13",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Kannada/Yalle_Yalle_Kanada.mp3",
+      "name" : "Yalle_Yalle_Kanada"
+    },
+    {
+      "id" : "14",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Kannada/Yeko_Yeno_Kanada.mp3",
+      "name" : "Yeko_Yeno_Kanada"
+    },
+	{
+      "id" : "15",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Kannada/Yenidhu_Yenidhu_Kanada.mp3",
+      "name" : "Yenidhu_Yenidhu_Kanada"
+    },
+    {
+      "id" : "16",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Kannada/Yethake_Kanada.mp3",
+      "name" : "Yethake_Kanada"
+    }
+  ]
+}

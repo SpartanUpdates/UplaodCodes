@@ -1,0 +1,30 @@
+{
+  "Ringtone" :
+  [
+    {
+      "id" : "1",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/God/Chatki_Re_Mara_Makhani_Mataki_Krishna_God.mp3",
+      "name" : "Chatki_Re_Mara_Makhani_Mataki_Krishna_God"
+    },
+    {
+      "id" : "2",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/God/Gananayakay_Gandevatay_Ganapati_God.mp3",
+      "name" : "Gananayakay_Gandevatay_Ganapati_God"
+    },
+	{
+      "id" : "3",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/God/Ganapati_Special_God.mp3",
+      "name" : "Ganapati_Special_God"
+    },
+    {
+      "id" : "4",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/God/Jai_Jaggannath_God.mp3",
+      "name" : "Jai_Jaggannath_God"
+    },
+	{
+      "id" : "5",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/God/Jatatavi_Galatjale_Siv_Ji_God.mp3",
+      "name" : "Jatatavi_Galatjale_Siv_Ji_God"
+    }
+  ]
+}

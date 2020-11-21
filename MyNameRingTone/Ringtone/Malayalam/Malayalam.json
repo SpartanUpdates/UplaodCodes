@@ -1,0 +1,95 @@
+{
+  "Ringtone" :
+  [
+    {
+      "id" : "1",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Malayalam/Aaro_Moolum_Raagam_Malayalam.mp3",
+      "name" : "Aaro_Moolum_Raagam_Malayalam"
+    },
+    {
+      "id" : "2",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Malayalam/Chennethu_Malayalam.mp3",
+      "name" : "Chennethu_Malayalam"
+    },
+	{
+      "id" : "3",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Malayalam/Cherathukal_Malayalam.mp3",
+      "name" : "Cherathukal_Malayalam"
+    },
+    {
+      "id" : "4",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Malayalam/Ila_Cherthu_Vechidam_Malayalam.mp3",
+      "name" : "Ila_Cherthu_Vechidam_Malayalam"
+    },
+	{
+      "id" : "5",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Malayalam/Kaanthu_Kaathu_Kaanthu_Ninnu_Malayalam.mp3",
+      "name" : "Kaanthu_Kaathu_Kaanthu_Ninnu_Malayalam"
+    },
+    {
+      "id" : "6",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Malayalam/Kanda_Neram_Khalbinullil_Malayalam.mp3",
+      "name" : "Kanda_Neram_Khalbinullil_Malayalam"
+    },
+	{
+      "id" : "7",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Malayalam/Mizhiyariyaathe_Munnil_Vannu_Ne_Malayalam.mp3",
+      "name" : "Mizhiyariyaathe_Munnil_Vannu_Ne_Malayalam"
+    },
+    {
+      "id" : "8",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Malayalam/Neela_Kaayalupol_Malayalam.mp3",
+      "name" : "Neela_Kaayalupol_Malayalam"
+    },
+	{
+      "id" : "9",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Malayalam/Njaan_Kaathe_Nilppu_Malayalam.mp3",
+      "name" : "Njaan_Kaathe_Nilppu_Malayalam"
+    },
+    {
+      "id" : "10",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Malayalam/Not_Just_A_Story_Malayalam.mp3",
+      "name" : "Not_Just_A_Story_Malayalam"
+    },
+	{
+      "id" : "11",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Malayalam/Onnum_Mindathe_Malayalam.mp3",
+      "name" : "Onnum_Mindathe_Malayalam"
+    },
+    {
+      "id" : "12",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Malayalam/Pallivallu_Malayalam.mp3",
+      "name" : "Pallivallu_Malayalam"
+    },
+	{
+      "id" : "13",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Malayalam/Piriyaathey_Ennaalum_Malayalam.mp3",
+      "name" : "Piriyaathey_Ennaalum_Malayalam"
+    },
+    {
+      "id" : "14",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Malayalam/Thampuratti_Malayalam.mp3",
+      "name" : "Thampuratti_Malayalam"
+    },
+	{
+      "id" : "15",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Malayalam/Thenoorum_Poovaay_Nee_Virinje_Malayalam.mp3",
+      "name" : "Thenoorum_Poovaay_Nee_Virinje_Malayalam"
+    },
+    {
+      "id" : "16",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Malayalam/Varika_Varika_Malayalam.mp3",
+      "name" : "Varika_Varika_Malayalam"
+    },
+	{
+      "id" : "17",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Malayalam/Ye_Chiilayil_Malayalam.mp3",
+      "name" : "Ye_Chiilayil_Malayalam"
+    },
+    {
+      "id" : "18",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Malayalam/Yen_Odumbu_Malayalam.mp3",
+      "name" : "Yen_Odumbu_Malayalam"
+    }
+  ]
+}

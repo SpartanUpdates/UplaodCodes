@@ -1,0 +1,65 @@
+{
+  "Ringtone" :
+  [
+    {
+      "id" : "1",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Festival/Are_Sa_Ra_Ra_Ra_Kabira_Festival.mp3",
+      "name" : "Are_Sa_Ra_Ra_Ra_Kabira_Festival"
+    },
+    {
+      "id" : "2",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Festival/Devo_No_Mahadev_Shij_Ji_Festival.mp3",
+      "name" : "Devo_No_Mahadev_Shij_Ji_Festival"
+    },
+	{
+      "id" : "3",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Festival/Do_Me_A_Favour_Lets_Play_Holi_English_Festival.mp3",
+      "name" : "Do_Me_A_Favour_Lets_Play_Holi_English_Festival"
+    },
+    {
+      "id" : "4",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Festival/Ho_Ayye_Tere_Bhavan_Festival.mp3",
+      "name" : "Ho_Ayye_Tere_Bhavan_Festival"
+    },
+	{
+      "id" : "5",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Festival/Holi_Ke_Din_Dil_Khiljate_Hai_Festival.mp3",
+      "name" : "Holi_Ke_Din_Dil_Khiljate_Hai_Festival"
+    },
+    {
+      "id" : "6",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Festival/Holi_Khele_Raghuvira_Festival.mp3",
+      "name" : "Holi_Khele_Raghuvira_Festival"
+    },
+	{
+      "id" : "7",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Festival/Jag_Me_Shiv_ka_Damru_Baje_Festival.mp3",
+      "name" : "Jag_Me_Shiv_ka_Damru_Baje_Festival"
+    },
+    {
+      "id" : "8",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Festival/Jata_Katha_Siv_ji_Festival.mp3",
+      "name" : "Jata_Katha_Siv_ji_Festival"
+    },
+	{
+      "id" : "9",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Festival/Navaratro_Me_Jo_Kare_Navratri_Festival.mp3",
+      "name" : "Navaratro_Me_Jo_Kare_Navratri_Festival"
+    },
+    {
+      "id" : "10",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Festival/Rang_Barse_Bhigi_Holi_Festival.mp3",
+      "name" : "Rang_Barse_Bhigi_Holi_Festival"
+    },
+	{
+      "id" : "11",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Festival/Sachi_Re_Mari_Sat_Re_Bhavani_Ma_Navaratri_Festival.mp3",
+      "name" : "Sachi_Re_Mari_Sat_Re_Bhavani_Ma_Navaratri_Festival.mp3"
+    },
+    {
+      "id" : "12",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Festival/Shish_Jukau_Ram_Gun_Gau_Festival.mp3",
+      "name" : "Shish_Jukau_Ram_Gun_Gau_Festival.mp3"
+    }
+  ]
+}

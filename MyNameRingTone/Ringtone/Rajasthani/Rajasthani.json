@@ -1,0 +1,90 @@
+{
+  "Ringtone" :
+  [
+    {
+      "id" : "1",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Rajasthani/Are_Man_Maro_Rajesthani.mp3",
+      "name" : "Are_Man_Maro_Rajesthani"
+    },
+    {
+      "id" : "2",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Rajasthani/Are_Mara_Dhola_Rajesthani.mp33",
+      "name" : "Are_Mara_Dhola_Rajesthani"
+    },
+	{
+      "id" : "3",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Rajasthanim/Baisa_Mori_Rajesthani.mp3",
+      "name" : "Baisa_Mori_Rajesthani"
+    },
+    {
+      "id" : "4",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Rajasthani/Banna_Thari_Rajesthani.mp3",
+      "name" : "Banna_Thari_Rajesthani"
+    },
+	{
+      "id" : "5",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Rajasthani/Banni_Tharo_Banno_Rajesthani.mp3",
+      "name" : "Banni_Tharo_Banno_Rajesthani"
+    },
+    {
+      "id" : "6",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Rajasthani/Gora_Mukhda_Hai_Sar_Par.mp3",
+      "name" : "Gora_Mukhda_Hai_Sar_Par"
+    },
+	{
+      "id" : "7",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Rajasthani/Ho_Mhare_Baisa_Rajesthani.mp3",
+      "name" : "Ho_Mhare_Baisa_Rajesthani"
+    },
+    {
+      "id" : "8",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Rajasthani/Kesariya_Lula_Lula_Rajesthani.mp3",
+      "name" : "Kesariya_Lula_Lula_Rajesthani"
+    },
+	{
+      "id" : "9",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Rajasthani/Koi_Badlo_Ho_Ke_Je_Leno_Ho_Rajesthani.mp3",
+      "name" : "Koi_Badlo_Ho_Ke_Je_Leno_Ho_Rajesthani"
+    },
+    {
+      "id" : "10",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Rajasthani/Mane_Suhj_Bhuj_Na_Koi_Rajesthani.mp3",
+      "name" : "Mane_Suhj_Bhuj_Na_Koi_Rajesthani"
+    },
+	{
+      "id" : "11",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Rajasthani/Maro_Chel_Bhanwaro_Rajesthani.mp3",
+      "name" : "Maro_Chel_Bhanwaro_Rajesthani"
+    },
+    {
+      "id" : "12",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Rajasthani/Mathedi_Ghada_Rajesthani.mp3",
+      "name" : "Mathedi_Ghada_Rajesthani"
+    },
+	{
+      "id" : "13",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Rajasthani/Muchya_Jhari_Rajesthani.mp3",
+      "name" : "Muchya_Jhari_Rajesthani"
+    },
+    {
+      "id" : "14",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Rajasthani/Piya_Avo_Rajesthani.mp3",
+      "name" : "Piya_Avo_Rajesthani"
+    },
+	{
+      "id" : "15",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Rajasthani/Samje_Na_Pouni_Rajesthani.mp3",
+      "name" : "Samje_Na_Pouni_Rajesthani"
+    },
+    {
+      "id" : "16",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Rajasthani/Sun_Sun_Mari_Rajesthani.mp3",
+      "name" : "Sun_Sun_Mari_Rajesthani"
+    },
+	{
+      "id" : "17",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Rajasthani/Thari_Sanwali_Rajesthani.mp3",
+      "name" : "Thari_Sanwali_Rajesthani"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "Ringtone" :
+  [
+    {
+      "id" : "1",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Nepali/Amba_Oake_Nepali.mp3",
+      "name" : "Amba_Oake_Nepali"
+    },
+    {
+      "id" : "2",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Nepali/Jodi_Dhukur_Nepali.mp3",
+      "name" : "Jodi_Dhukur_Nepali"
+    },
+	{
+      "id" : "3",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Nepali/Kati_Kura_Nepali.mp3",
+      "name" : "Kati_Kura_Nepali"
+    },
+    {
+      "id" : "4",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Nepali/Katti_Sath_Chhodi_Daye_Nepali.mp3",
+      "name" : "Katti_Sath_Chhodi_Daye_Nepali"
+    },
+	{
+      "id" : "5",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Nepali/Kina_Beryuai_Nepali.mp3",
+      "name" : "Kina_Beryuai_Nepali"
+    },
+    {
+      "id" : "6",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Nepali/Kina_Kina_Nepali.mp3",
+      "name" : "Kina_Kina_Nepali"
+    },
+	{
+      "id" : "7",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Nepali/Marera_Gayeni_Nepali.mp3",
+      "name" : "Marera_Gayeni_Nepali"
+    },
+    {
+      "id" : "8",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Nepali/Merera_Lanuk_Xa_Nepali.mp3",
+      "name" : "Merera_Lanuk_Xa_Nepali"
+    },
+	{
+      "id" : "9",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Nepali/Meroyo_Chhati_Nepali.mp3",
+      "name" : "Meroyo_Chhati_Nepali"
+    },
+    {
+      "id" : "10",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Nepali/OYe_Oye_Bhanera_Nepali.mp3",
+      "name" : "OYe_Oye_Bhanera_Nepali"
+    },
+	{
+      "id" : "11",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Nepali/Talakyo_Jawani_Nepali.mp3",
+      "name" : "Talakyo_Jawani_Nepali"
+    },
+    {
+      "id" : "12",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Nepali/Timi_Bahek_Nepali.mp3",
+      "name" : "Timi_Bahek_Nepali"
+    },
+	{
+      "id" : "13",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Nepali/Timi_Roye_Ko_Nepali.mp3",
+      "name" : "Timi_Roye_Ko_Nepali"
+    },
+    {
+      "id" : "14",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Nepali/Timi_Thami_Deu_Hath_Nepali.mp3",
+      "name" : "Timi_Thami_Deu_Hath_Nepali"
+    },
+	{
+      "id" : "15",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Nepali/Visit_Visa_Ma_Hujur_Nepali.mp3",
+      "name" : "Visit_Visa_Ma_Hujur_Nepali"
+    }
+  ]
+}
