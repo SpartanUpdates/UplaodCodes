@@ -1,0 +1,94 @@
+{
+  "Category" :  [
+   {
+      "id" : "1",	
+      "name" : "Arabic",
+	  "link" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Arabic/Arabic.json"
+   },
+   {
+      "id" : "2",
+      "name" : "Bengali",
+	  "link" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bengali/Bengali.json"
+   },
+   {	
+      "id" : "3",	
+      "name" : "Bhojpuri",
+	  "link" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bhojpuri/Bhojpuri.json"
+   },
+   {
+      "id" : "4",
+      "name" : "Birthday",
+	  "link" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/Birthday.json"
+   },
+   {
+      "id" : "5",	  
+      "name" : "Days",
+	  "link" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Days/Days.json"
+   },
+   {
+      "id" : "6",	  
+      "name" : "Dialogue",
+	  "link" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Dialogue.json"
+   },
+   {
+      "id" : "7",	  
+      "name" : "English",
+	  "link" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/English/English.json"
+   },
+   {
+      "id" : "8",	  
+      "name" : "Festival",
+	  "link" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Festival/Festival.json"
+   },
+   {
+	  "id" : "9",	  
+      "name" : "God",
+	  "link" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/God/God.json"
+   },
+   {
+	  "id" : "10",	  
+      "name" : "Hindi",
+	  "link" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Hindi/Hindi.json"
+   },
+   {
+	  "id" : "11",	  
+      "name" : "Kannada",
+	  "link" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Kannada/Kannada.json"
+   },
+   {
+	  "id" : "12",	  
+      "name" : "Malayalan",
+	  "link" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Malayalam/Malayalam.json"
+   },
+   {
+	  "id" : "13",	  
+      "name" : "Marathi",
+	  "link" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Marathi/Marathi.json"
+   },
+   {
+	  "id" : "14",	  
+      "name" : "Nepali",
+	  "link" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Nepali/Nepali.json"
+   },
+   {
+	  "id" : "15",	  
+      "name" : "Punjabi",
+	  "link" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Punjabi/Punjabi.json"
+   },
+   {
+	  "id" : "16",	  
+      "name" : "Rajasthani",
+	  "link" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Rajasthani/Rajasthani.json"
+   },
+   {
+	  "id" : "17",	  
+      "name" : "Tamil",
+	  "link" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Tamil/Tamil.json"
+   },
+   {
+	  "id" : "18",	  
+      "name" : "Telugu",
+	  "link" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Telugu/Telugu.json"
+   }
+  ]
+}

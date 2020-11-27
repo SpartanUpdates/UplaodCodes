@@ -1,0 +1,85 @@
+{
+  "Ringtone" :
+  [
+    {
+      "id" : "1",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/A_Special_Mother_Birthday.mp3",
+      "name" : "A_Special_Mother_Birthday"
+    },
+    {
+      "id" : "2",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/Bhai_Cha_Birthday_Marathi.mp3",
+      "name" : "Bhai_Cha_Birthday_Marathi"
+    },
+	{
+      "id" : "3",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/Happy_Birthday_To_You_Birthday.mp3",
+      "name" : "Happy_Birthday_To_You_Birthday"
+    },
+    {
+      "id" : "4",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/Happy_Birthday_To_You_Remix_Birthday.mp3",
+      "name" : "Happy_Birthday_To_You_Remix_Birthday"
+    },
+	{
+      "id" : "5",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/Hay_ni_Tera_Happy_Birthday.mp3",
+      "name" : "Hay_ni_Tera_Happy_Birthday"
+    },
+    {
+      "id" : "6",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/Hota_hai_Ek_Din_Birthday.mp3",
+      "name" : "Hota_hai_Ek_Din_Birthday"
+    },
+	{
+      "id" : "7",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/I_Feel_So_Lucky_Birthday.mp3",
+      "name" : "I_Feel_So_Lucky_Birthday"
+    },
+    {
+      "id" : "8",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/I_Hope_All_Your_Birthday_Wishes_Birthday.mp3",
+      "name" : "I_Hope_All_Your_Birthday_Wishes_Birthday"
+    },
+	{
+      "id" : "9",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/Janmdin_Ko_Dherai_Subhabadhayi_Birthday.mp3",
+      "name" : "Janmdin_Ko_Dherai_Subhabadhayi_Birthday"
+    },
+    {
+      "id" : "10",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/Mai_This_Day_Bring_Birthday.mp3",
+      "name" : "Mai_This_Day_Bring_Birthday"
+    },
+	{
+      "id" : "11",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/Mama_O_Baba_Birthday.mp3",
+      "name" : "Mama_O_Baba_Birthday"
+    },
+    {
+      "id" : "12",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/Remix_Haye_ni_Tera_Happy_Birthday.mp3",
+      "name" : "Remix_Haye_ni_Tera_Happy_Birthday"
+    },
+	{
+      "id" : "13",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/Remix_Mai_or_Tu_Mera_Yaar_Birthday.mp3",
+      "name" : "Remix_Mai_or_Tu_Mera_Yaar_Birthday"
+    },
+    {
+      "id" : "14",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/Shake_Hai_To_Phir_Bulao_Ji_Birthday.mp3",
+      "name" : "Shake_Hai_To_Phir_Bulao_Ji_Birthday"
+    },
+	{
+      "id" : "15",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/Slow_Happy_Birthday_To_You_Birthday.mp3",
+      "name" : "Slow_Happy_Birthday_To_You_Birthday"
+    },
+    {
+      "id" : "16",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Birthday/Teri_Friend_Teri_Girlfriend_Birthday.mp3",
+      "name" : "Teri_Friend_Teri_Girlfriend_Birthday"
+    }
+  ]
+}

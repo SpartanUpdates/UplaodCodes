@@ -1,0 +1,75 @@
+{
+  "Ringtone" :
+  [
+    {
+      "id" : "1",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Days/Amba_mari_maa.mp3",
+      "name" : "Amba_mari_maa"
+    },
+    {
+      "id" : "2",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Days/Asht_siddhi_nav_nidhi.mp3",
+      "name" : "Asht_siddhi_nav_nidhi"
+    },
+	{
+      "id" : "3",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Days/Dholi_taro_dhol.mp3",
+      "name" : "Dholi_taro_dhol"
+    },
+    {
+      "id" : "4",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Days/Dholida_Dholida.mp3",
+      "name" : "Dholida_Dholida"
+    },
+	{
+      "id" : "5",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Days/Eid_Mubaarak.mp3",
+      "name" : "Eid_Mubaarak"
+    },
+    {
+      "id" : "6",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Days/Good_Friday.mp3",
+      "name" : "Good_Friday"
+    },
+	{
+      "id" : "7",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Days/Good_friday2.mp3",
+      "name" : "Good_friday2"
+    },
+    {
+      "id" : "8",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Days/jai_hanuman_gyan_gun_sagar.mp3",
+      "name" : "jai_hanuman_gyan_gun_sagar"
+    },
+	{
+      "id" : "9",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Days/Jai_ji_garvi_gujarat.mp3",
+      "name" : "Jai_ji_garvi_gujarat"
+    },
+    {
+      "id" : "10",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Days/jay_mahaveera.mp3",
+      "name" : "jay_mahaveera"
+    },
+	{
+      "id" : "11",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Days/Oo_behna_meri_behna.mp3",
+      "name" : "Oo_behna_meri_behna"
+    },
+    {
+      "id" : "12",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Days/Pethal_pur_ma_sunle_oo.mp3",
+      "name" : "Pethal_pur_ma_sunle_oo"
+    },
+	{
+      "id" : "13",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Days/rabindra_nath_tagor_jayanti.mp3",
+      "name" : "rabindra_nath_tagor_jayanti"
+    },
+    {
+      "id" : "14",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Days/Yoga_day.mp3",
+      "name" : "Yoga_day"
+    }
+  ]
+}

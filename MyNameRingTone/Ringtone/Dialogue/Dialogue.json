@@ -1,0 +1,145 @@
+{
+  "Ringtone" :
+  [
+    {
+      "id" : "1",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Bande_Hum_Uske_Dialogue.mp3",
+      "name" : "Bande_Hum_Uske_Dialogue"
+    },
+    {
+      "id" : "2",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Bas_Ek_Ha_ke_Intejar_Hai_Dialogue.mp3",
+      "name" : "Bas_Ek_Ha_ke_Intejar_Hai_Dialogue"
+    },
+	{
+      "id" : "3",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Dard_Ke_Tuffan_Dil_Mai_Uthe_Hai_Dialogue.mp3",
+      "name" : "Dard_Ke_Tuffan_Dil_Mai_Uthe_Hai_Dialogue"
+    },
+    {
+      "id" : "4",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Darr_Gaya_Dialogue.mp3",
+      "name" : "Darr_Gaya_Dialogue"
+    },
+	{
+      "id" : "5",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Dhokha_Diya_Dialogue.mp3",
+      "name" : "Dhokha_Diya_Dialogue"
+    },
+    {
+      "id" : "6",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Dusman_Ko_Maffi_Dialogue.mp3",
+      "name" : "Dusman_Ko_Maffi_Dialogue"
+    },
+	{
+      "id" : "7",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Ek_Maswara_Hai_Dialogue.mp3",
+      "name" : "Ek_Maswara_Hai_Dialogue"
+    },
+    {
+      "id" : "8",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Hamare_Yaha_Badla_Leni_Ke_Parampara_Hai_Dialogue.mp3",
+      "name" : "Hamare_Yaha_Badla_Leni_Ke_Parampara_Hai_Dialogue"
+    },
+	{
+      "id" : "9",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Hum_Ruthe_Huye_Dilo_Ko_Manane_Me_Lag_Gaye_Dialogue.mp3",
+      "name" : "Hum_Ruthe_Huye_Dilo_Ko_Manane_Me_Lag_Gaye_Dialogue"
+    },
+    {
+      "id" : "10",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Iss_Dil_Me_Pyar_Tha_Dialogue.mp3",
+      "name" : "Iss_Dil_Me_Pyar_Tha_Dialogue"
+    },
+	{
+      "id" : "11",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Jab_Bhi_Qarib_Atta_Hun_Dialogue.mp3",
+      "name" : "Jab_Bhi_Qarib_Atta_Hun_Dialogue"
+    },
+    {
+      "id" : "12",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Jaldi_Se_Muje_I_Love_You_Kehdo_Dialogue.mp3",
+      "name" : "Jaldi_Se_Muje_I_Love_You_Kehdo_Dialogue"
+    },
+	{
+      "id" : "13",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Jindagi_Ek_Jung_Hai_Dialogue.mp3",
+      "name" : "Jindagi_Ek_Jung_Hai_Dialogue"
+    },
+    {
+      "id" : "14",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Jindagi_Mai_Kuch_Banana_Ho_Dialogue.mp3",
+      "name" : "Jindagi_Mai_Kuch_Banana_Ho_Dialogue"
+    },
+	{
+      "id" : "15",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Juk_Juk_Kar_Sidha_Khada_Hua.mp3",
+      "name" : "Juk_Juk_Kar_Sidha_Khada_Hua"
+    },
+    {
+      "id" : "16",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Kahaniyo_Me_Suna_Tha_Dialogue.mp3",
+      "name" : "Kahaniyo_Me_Suna_Tha_Dialogue"
+    },
+	{
+      "id" : "17",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Kehte_Hai_Na_Ki_har_Picture_Me_Ek_Hota_Hai_Dialogue.mp3",
+      "name" : "Kehte_Hai_Na_Ki_har_Picture_Me_Ek_Hota_Hai_Dialogue"
+    },
+    {
+      "id" : "18",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Koi_Sapan_Pura_Karne_Ke_Liye_Me_Apni_Apko_Badalana_Nahi_Chahta_Dialogue.mp3",
+      "name" : "Koi_Sapan_Pura_Karne_Ke_Liye_Me_Apni_Apko_Badalana_Nahi_Chahta_Dialogue"
+    },
+	{
+      "id" : "19",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Mat_Dhund_Mujse_Dur_Jane_Ke_Bahane_Dialogue.mp3",
+      "name" : "Mat_Dhund_Mujse_Dur_Jane_Ke_Bahane_Dialogue"
+    },
+    {
+      "id" : "20",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Muje_Jindagi_Ki_Dua_Dene_Wale_Dialogue.mp3",
+      "name" : "Muje_Jindagi_Ki_Dua_Dene_Wale_Dialogue"
+    },
+	{
+      "id" : "21",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Na_Jane_Kon_Sa_Pehlu_Tumhari_Kismat_Le_Jaye_Dialogue.mp3",
+      "name" : "Na_Jane_Kon_Sa_Pehlu_Tumhari_Kismat_Le_Jaye_Dialogue"
+    },
+    {
+      "id" : "22",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/One_Side_Love_Dialogue.mp3",
+      "name" : "One_Side_Love_Dialogue"
+    },
+	{
+      "id" : "23",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Puri_Jindagi_Lah_Gayi_Hai_Dialogue.mp3",
+      "name" : "Puri_Jindagi_Lah_Gayi_Hai_Dialogue"
+    },
+    {
+      "id" : "24",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Puri_Jindagi_Nikalgai_Hai_Samajane_Mai_Dialogue.mp3",
+      "name" : "Puri_Jindagi_Nikalgai_Hai_Samajane_Mai_Dialogue"
+    },
+	{
+      "id" : "25",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Pyar_Karna_Bahut_Log_Sikhte_Hai_Dialogue.mp3",
+      "name" : "Pyar_Karna_Bahut_Log_Sikhte_Hai_Dialogue"
+    },
+    {
+      "id" : "26",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Sabse_Jyada_Dar_Iss_Chiz_Se_Lagta_Hai_Dialogue.mp3",
+      "name" : "Sabse_Jyada_Dar_Iss_Chiz_Se_Lagta_Hai_Dialogue"
+    },
+	{
+      "id" : "27",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Swarth_Ke_Piche_Bhagne_Wali_Ye_Duniya_Dialogue.mp3",
+      "name" : "Swarth_Ke_Piche_Bhagne_Wali_Ye_Duniya_Dialogue"
+    },
+    {
+      "id" : "28",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Dialogue/Tum_Log_Jante_Ho_Har_Ek_Student_Government_Student_Naahi_Banta_Dialogue.mp3",
+      "name" : "Tum_Log_Jante_Ho_Har_Ek_Student_Government_Student_Naahi_Banta_Dialogue"
+    }
+  ]
+}

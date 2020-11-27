@@ -1,0 +1,90 @@
+{
+  "Ringtone" :
+  [
+    {
+      "id" : "1",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bhojpuri/Ae_Dhaani_Tani_Sut_Jaye_Da_Bhojpuri.mp3",
+      "name" : "Ae_Dhaani_Tani_Sut_Jaye_Da_Bhojpuri"
+    },
+    {
+      "id" : "2",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bhojpuri/Aee_Jaan_Bhojpuri.mp3",
+      "name" : "Aee_Jaan_Bhojpuri"
+    },
+	{
+      "id" : "3",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bhojpuri/Bahut_Bat_Hola_Bhojpuri.mp33",
+      "name" : "Bahut_Bat_Hola_Bhojpuri"
+    },
+    {
+      "id" : "4",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bhojpuri/Chage_Sab_Ladawal_Nazariya_Bhojpuri.mp3",
+      "name" : "Chage_Sab_Ladawal_Nazariya_Bhojpuri"
+    },
+	{
+      "id" : "5",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bhojpuri/Chat_Denni_Maar_Denni_Bhojpuri.mp3",
+      "name" : "Chat_Denni_Maar_Denni_Bhojpuri"
+    },
+    {
+      "id" : "6",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bhojpuri/Dhani_Tani_Jaye_Da_Bhojpuri.mp3",
+      "name" : "Dhani_Tani_Jaye_Da_Bhojpuri"
+    },
+	{
+      "id" : "7",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bhojpuri/Haatha_Jahiya_Chhoda_Bhojpuri.mp3",
+      "name" : "Haatha_Jahiya_Chhoda_Bhojpuri"
+    },
+    {
+      "id" : "8",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bhojpuri/Hum_Kaise_Kahin_Humke_Bhojpuri.mp3",
+      "name" : "Hum_Kaise_Kahin_Humke_Bhojpuri"
+    },
+	{
+      "id" : "9",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bhojpuri/Kisamat_Ba_Gala_Bala_Bhojpuri.mp3",
+      "name" : "Kisamat_Ba_Gala_Bala_Bhojpuri"
+    },
+    {
+      "id" : "10",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bhojpuri/Lagavelu_Jab_Lipistic_Bhojpuri.mp3",
+      "name" : "Lagavelu_Jab_Lipistic_Bhojpuri"
+    },
+	{
+      "id" : "11",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bhojpuri/Love_Karke_Bhaage_Hai_Bhojpuri.mp3",
+      "name" : "Love_Karke_Bhaage_Hai_Bhojpuri"
+    },
+    {
+      "id" : "12",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bhojpuri/Main_Lilihi_Bhojpuri.mp3",
+      "name" : "Main_Lilihi_Bhojpuri"
+    },
+	{
+      "id" : "13",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bhojpuri/Main_Mantra_Tha_Jin_Hontho_Par_Bhojpuri.mp3",
+      "name" : "Main_Mantra_Tha_Jin_Hontho_Par_Bhojpuri"
+    },
+    {
+      "id" : "14",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bhojpuri/Nazariya_Bhojpuri.mp3",
+      "name" : "Nazariya_Bhojpuri"
+    },
+	{
+      "id" : "15",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bhojpuri/Smajeni_Pouni_Bhojpuri.mp3",
+      "name" : "Smajeni_Pouni_Bhojpuri"
+    },
+    {
+      "id" : "16",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bhojpuri/Sute_Ke_Beri_Good_Bhojpuri.mp3",
+      "name" : "Sute_Ke_Beri_Good_Bhojpuri"
+    },
+	{
+      "id" : "17",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bhojpuri/Tohar_Ek_Muskna_Bhojpuri.mp3",
+      "name" : "Tohar_Ek_Muskna_Bhojpuri"
+    }
+  ]
+}

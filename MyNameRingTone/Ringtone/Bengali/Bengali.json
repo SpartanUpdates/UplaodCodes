@@ -1,0 +1,90 @@
+{
+  "Ringtone" :
+  [
+    {
+      "id" : "1",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bengali/Amar_Puri_Kopake_Bengali.mp3",
+      "name" : "Amar_Puri_Kopake_Bengali"
+    },
+    {
+      "id" : "2",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bengali/Ami_Tiffinn_Er_Shob_Taka_Bengali.mp3",
+      "name" : "Ami_Tiffinn_Er_Shob_Taka_Bengali"
+    },
+	{
+      "id" : "3",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bengali/Baka_Chule_Te_Khop_Bengali.mp3",
+      "name" : "Baka_Chule_Te_Khop_Bengali"
+    },
+    {
+      "id" : "4",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bengali/Boday_Raat_Bengali.mp3",
+      "name" : "Boday_Raat_Bengali"
+    },
+	{
+      "id" : "5",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bengali/Boshe_Achi_Bengali.mp3",
+      "name" : "Boshe_Achi_Bengali"
+    },
+    {
+      "id" : "6",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bengali/Chay_Sudhu_Vabte_Bengali.mp3",
+      "name" : "Chay_Sudhu_Vabte_Bengali"
+    },
+	{
+      "id" : "7",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bengali/Dekho_Na_O_Mama_Bengali.mp3",
+      "name" : "Dekho_Na_O_Mama_Bengali"
+    },
+    {
+      "id" : "8",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bengali/Enechi_Kuriye_Bengali.mp3",
+      "name" : "Enechi_Kuriye_Bengali"
+    },
+	{
+      "id" : "9",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bengali/Ghum_Ashe_Na_Ghum_Vange_Na_Bengali.mp3",
+      "name" : "Ghum_Ashe_Na_Ghum_Vange_Na_Bengali"
+    },
+    {
+      "id" : "10",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bengali/Ghum_Ghum_Vange_Na_Bengali.mp3",
+      "name" : "Ghum_Ghum_Vange_Na_Bengali"
+    },
+	{
+      "id" : "11",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bengali/Kono_Ek_Notup_Bengali.mp3",
+      "name" : "Kono_Ek_Notup_Bengali"
+    },
+    {
+      "id" : "12",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bengali/Konya_Re_Bengali.mp3",
+      "name" : "Konya_Re_Bengali"
+    },
+	{
+      "id" : "13",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bengali/Muchki_Haasi_Bengali.mp3",
+      "name" : "Muchki_Haasi_Bengali"
+    },
+    {
+      "id" : "14",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bengali/Nei_Sudh_Bengali.mp3",
+      "name" : "Nei_Sudh_Bengali"
+    },
+	{
+      "id" : "15",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bengali/Oi_Dakche_Bengali.mp3",
+      "name" : "Oi_Dakche_Bengali"
+    },
+    {
+      "id" : "16",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bengali/Sei_Bhebe_Bachi_Achi_Bengali.mp3",
+      "name" : "Sei_Bhebe_Bachi_Achi_Bengali"
+    },
+	{
+      "id" : "17",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Bengali/Thik_Emon_Bengali.mp3",
+      "name" : "Thik_Emon_Bengali"
+    }
+  ]
+}

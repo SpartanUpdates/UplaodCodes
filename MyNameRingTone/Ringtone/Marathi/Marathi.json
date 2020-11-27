@@ -1,0 +1,95 @@
+{
+  "Ringtone" :
+  [
+    {
+      "id" : "1",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Marathi/Aai_Bapachi_Marathi.mp3",
+      "name" : "Aai_Bapachi_Marathi"
+    },
+    {
+      "id" : "2",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Marathi/Bhai_Cha_Birthday_Marathi.mp3",
+      "name" : "Bhai_Cha_Birthday_Marathi"
+    },
+	{
+      "id" : "3",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Marathi/Haiya_O_Haiya_Marathi.mp3",
+      "name" : "Haiya_O_Haiya_Marathi"
+    },
+    {
+      "id" : "4",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Marathi/Jalak_Tichi_Marathi.mp3",
+      "name" : "Jalak_Tichi_Marathi"
+    },
+	{
+      "id" : "5",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Marathi/Kadhi_Kadhi_Marathi.mp3",
+      "name" : "Kadhi_Kadhi_Marathi"
+    },
+    {
+      "id" : "6",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Marathi/Konachya_Marathi.mp3",
+      "name" : "Konachya_Marathi"
+    },
+	{
+      "id" : "7",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Marathi/Mala_Ga_Nahi_Marathi.mp3",
+      "name" : "Mala_Ga_Nahi_Marathi"
+    },
+    {
+      "id" : "8",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Marathi/Man_Pavasali_Marathi.mp3",
+      "name" : "Man_Pavasali_Marathi"
+    },
+	{
+      "id" : "9",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Marathi/Me_Asha_Me_Paras_Marathi.mp3",
+      "name" : "Me_Asha_Me_Paras_Marathi"
+    },
+    {
+      "id" : "10",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Marathi/Navaraimajhi_Marathi.mp3",
+      "name" : "Navaraimajhi_Marathi"
+    },
+	{
+      "id" : "11",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Marathi/Rangat_Rang_Marathi.mp3",
+      "name" : "Rangat_Rang_Marathi"
+    },
+    {
+      "id" : "12",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Marathi/Rutayala_Marathi.mp3",
+      "name" : "Rutayala_Marathi"
+    },
+	{
+      "id" : "13",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Marathi/Thoka_Asa_Marathi.mp3",
+      "name" : "Thoka_Asa_Marathi"
+    },
+    {
+      "id" : "14",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Marathi/Tuja_Nashilya_Marathi.mp3",
+      "name" : "Tuja_Nashilya_Marathi"
+    },
+	{
+      "id" : "15",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Marathi/Tujya_Nasilya_Marathi.mp3",
+      "name" : "Tujya_Nasilya_Marathi"
+    },
+    {
+      "id" : "16",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Marathi/TukTuk_Bhagatay_Marathi.mp3",
+      "name" : "TukTuk_Bhagatay_Marathi"
+    },
+	{
+      "id" : "17",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Marathi/Tula_Pahata_Ajahi_Marathi.mp3",
+      "name" : "Tula_Pahata_Ajahi_Marathi"
+    },
+    {
+      "id" : "18",
+      "mp3Url" : "https://raw.githubusercontent.com/SpartanUpdates/UplaodCodes/master/MyNameRingTone/Ringtone/Marathi/Un_Un_Vathatun_Marathi.mp3",
+      "name" : "Un_Un_Vathatun_Marathi"
+    }
+  ]
+}
